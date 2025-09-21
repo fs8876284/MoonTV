@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "senlinziyuan": {
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "name": "森林资源"
+    }
   }
 }
